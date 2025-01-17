@@ -7,6 +7,8 @@
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: rgba(255, 255, 255, 0.993);
   background: url(https://www.tullysgoodtimes.com/wp-content/uploads/CTT_WoodPanels-1.jpg);
+  background-position: center;
+  background-size: cover;
 
   background-size: contain;
   font-synthesis: none;
